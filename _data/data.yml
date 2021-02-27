@@ -43,7 +43,15 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Hellow.I am an exciting young man who is still in his first degree about informatics.Nonetheles I have experience in professional environment, because I work allmost 3 years as long as I study.
+      Hellow.I am an exciting young man who is still in his first degree about informatics.
+      Nonetheles I have experience in professional environment, because I work allmost 3 years as long as I study.
+      Although I have not graduated yet, I am in a real good programming level , and I am looking for opportunities to help me get better. 
+      
+      
+      
+      
+      
+      
 
 education:
     - degree: Informatics
@@ -61,6 +69,14 @@ experiences:
     - role: Bartender
       time: 2018- 2021
       company: The bar 
+       - Bullet point
+       - Bullet point
+       
+       
+       
+       
+       
+       
        
       
       
