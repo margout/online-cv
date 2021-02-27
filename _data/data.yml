@@ -53,6 +53,16 @@ education:
       university: Spandoy
       time: 2013-2015
       
+experiences:
+    - role: Waiter
+      time: 2015-2017
+      company: Sicilia pizza
+    
+    - role: Bartender
+      time: 2018- 2021
+      company: The bar 
+       
+      
       
 
 
